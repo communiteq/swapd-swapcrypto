@@ -1,0 +1,31 @@
+en:
+  js:
+    swapcrypto:
+      swap:
+        title: Crypto Exchange
+        text: Free from sign up, limits, complications
+        widget: |
+          <iframe id="simpleswap-frame" name="SWAP Crypto" width="528px" height="392px" src="https://simpleswap.io/widget/8b9d8d76-9d21-4cb8-ae4d-cbd9c7fc050b" frameborder="0">
+          </iframe>
+        bottom_text: Blah
+      crypto:
+        title: Buy Crypto
+        text: Free from sign up, limits, complications
+        widget: |
+          <iframe id="simpleswap-frame" name="SWAP Crypto" width="528px" height="392px" src="https://simpleswap.io/widget/8b9d8d76-9d21-4cb8-ae4d-cbd9c7fc050b" frameborder="0">
+          </iframe>
+        bottom_text: Blah
+      crypto:
+        title: Buy Crypto
+        text: Free from sign up, limits, complications
+        widget: |
+          <iframe id="simpleswap-frame" name="SWAP Crypto" width="528px" height="392px" src="https://simpleswap.io/widget/8b9d8d76-9d21-4cb8-ae4d-cbd9c7fc050b" frameborder="0">
+          </iframe>
+        bottom_text: Blah
+      crypto:
+        title: Buy Crypto
+        text: Free from sign up, limits, complications
+        widget: |
+          <iframe>
+          </iframe>
+        bottom_text: Blah
