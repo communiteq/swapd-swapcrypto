@@ -26,6 +26,7 @@ en:
         title: Buy Crypto
         text: Free from sign up, limits, complications
         widget: |
-          <iframe>
+          <iframe id="guardarian-frame" height="625" title="Guardarian Widget" frameborder="0"
+          src="https://guardarian.com/calculator/v1?partner_api_token=331dae13-2a56-4842-bf39-d735f48a4a46&theme=blue&type=narrow&default_fiat_currency=USD">
           </iframe>
         bottom_text: Blah
