@@ -3,8 +3,11 @@
 # author: richard@communiteq.com
 # url: https://github.com/communiteq/swapd-swapcrypto
 
-after_initialize do
+%i(common desktop mobile).each do |type|
+  register_asset "stylesheets/swapcrypto/#{type}.scss", type
+end
 
+after_initialize do
   require_dependency "application_controller"
   class ::SwapController < ::ApplicationController
     def index
