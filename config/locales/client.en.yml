@@ -5,28 +5,14 @@ en:
         title: Crypto Exchange
         text: Free from sign up, limits, complications
         widget: |
-          <iframe id="simpleswap-frame" name="SWAP Crypto" width="528px" height="392px" src="https://simpleswap.io/widget/8b9d8d76-9d21-4cb8-ae4d-cbd9c7fc050b" frameborder="0">
+          <iframe id="simpleswap-frame" name="SWAP Crypto" width="532px" height="392px" src="https://simpleswap.io/widget/8b9d8d76-9d21-4cb8-ae4d-cbd9c7fc050b" frameborder="0">
           </iframe>
         bottom_text: Blah
       crypto:
         title: Buy Crypto
         text: Free from sign up, limits, complications
         widget: |
-          <iframe id="simpleswap-frame" name="SWAP Crypto" width="528px" height="392px" src="https://simpleswap.io/widget/8b9d8d76-9d21-4cb8-ae4d-cbd9c7fc050b" frameborder="0">
-          </iframe>
-        bottom_text: Blah
-      crypto:
-        title: Buy Crypto
-        text: Free from sign up, limits, complications
-        widget: |
-          <iframe id="simpleswap-frame" name="SWAP Crypto" width="528px" height="392px" src="https://simpleswap.io/widget/8b9d8d76-9d21-4cb8-ae4d-cbd9c7fc050b" frameborder="0">
-          </iframe>
-        bottom_text: Blah
-      crypto:
-        title: Buy Crypto
-        text: Free from sign up, limits, complications
-        widget: |
-          <iframe id="guardarian-frame" height="350" title="Guardarian Widget" frameborder="0"
-          src="https://guardarian.com/calculator/v1?partner_api_token=331dae13-2a56-4842-bf39-d735f48a4a46&theme=blue&type=narrow&default_fiat_currency=USD">
+          <iframe id="guardarian-frame" height="625" title="Guardarian Widget" frameborder="0"
+          src="https://guardarian.com/calculator/v1?partner_api_token=331dae13-2a56-4842-bf39-d735f48a4a46&theme=gradient&type=wide&default_fiat_amount=250&default_fiat_currency=USD">
           </iframe>
         bottom_text: <span>Blah</span><br><img src="/plugins/swapd-swapcrypto/images/process.png"><br><img src="/plugins/swapd-swapcrypto/images/logos.png">
