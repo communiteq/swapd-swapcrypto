@@ -1,5 +1,5 @@
 # name: swapd-swapcrypto
-# version: 1.0
+# version: 1.1
 # author: richard@communiteq.com
 # url: https://github.com/communiteq/swapd-swapcrypto
 
