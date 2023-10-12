@@ -1,24 +1,25 @@
 
+
 .sidebar-section-link-wrapper {
-    .sidebar-section-link-swap-crypto {
+    .sidebar-section-link.section-link-swap-crypto {
         color: #d00;
         .sidebar-section-link-prefix.icon {
             color: #d00;
         }
     }
-    .sidebar-section-link-swap-crypto.active {
+    .sidebar-section-link.section-link-swap-crypto.active {
         color: #e00;
         .sidebar-section-link-prefix.icon {
             color: #e00;
         }
     }
-    .sidebar-section-link-buy-crypto {
+    .sidebar-section-link.section-link-buy-crypto {
         color: #080;
         .sidebar-section-link-prefix.icon {
             color: #080;
         }
     }
-    .sidebar-section-link-buy-crypto.active {
+    .sidebar-section-link.section-link-buy-crypto.active {
         color: #0a0;
         .sidebar-section-link-prefix.icon {
             color: #0a0;
