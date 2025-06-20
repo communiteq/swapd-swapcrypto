@@ -1,5 +1,5 @@
 # name: swapd-swapcrypto
-# version: 3.2
+# version: 3.2.1
 # authors: Communiteq
 # about: Adds /swap and /crypto routes. The sidebar entries are in Support Tickets.
 # url: https://github.com/communiteq/swapd-swapcrypto
