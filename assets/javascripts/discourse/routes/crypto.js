@@ -1,6 +1,6 @@
 import DiscourseRoute from "discourse/routes/discourse";
 
-export default DiscourseRoute.extend({
-    showFooter: true,
-});
+export default class CryptoRoute extends DiscourseRoute {
+  showFooter = true;
+}
 

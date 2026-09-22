@@ -9,13 +9,13 @@
 end
 
 after_initialize do
-  require_dependency "application_controller"
   class ::SwapController < ::ApplicationController
     def index
-      render text: ""
+      render plain: ""
     end
+
     def crypto
-      render text: ""
+      render plain: ""
     end
   end
 
@@ -23,5 +23,4 @@ after_initialize do
     get "/swap" => "swap#index"
     get "/crypto" => "swap#crypto"
   end
-
 end

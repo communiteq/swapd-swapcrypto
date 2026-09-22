@@ -1,5 +1,5 @@
 import DiscourseRoute from "discourse/routes/discourse";
 
-export default DiscourseRoute.extend({
-    showFooter: true,
-});
+export default class SwapRoute extends DiscourseRoute {
+  showFooter = true;
+}
